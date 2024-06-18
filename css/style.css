@@ -17,8 +17,8 @@ body {
 }
 
 #backrisultato {
-    width: 40rem;
-    height: 20rem;
+    width: 80rem;
+    height: 40rem;
     position: relative;
     display: flex;
     align-items: center;
@@ -29,7 +29,7 @@ body {
 }
 
 .prisultato {
-    width: 100%;
+    width: 80%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -37,17 +37,13 @@ body {
     flex-wrap: wrap;
 }
 
-.risultato {
-    display: block;
-    text-align: center;
-    width: 25rem;
-    height: 5rem;
+.personauno {
+    width: 13rem;
+    height: 16rem;
     border: 2px solid white;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
     border-radius: 10px;
-    font-size: 20px;
     background-color: blanchedalmond;
-    color: black;
 }
