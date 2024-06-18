@@ -29,21 +29,88 @@ body {
 }
 
 .prisultato {
-    width: 80%;
+    width: 100%;
     height: 100%;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
 
 .personauno {
-    width: 13rem;
-    height: 16rem;
+    width: 18rem;
+    height: 17rem;
     border: 2px solid white;
     display: flex;
     flex-direction: column;
     align-items: center;
     border-radius: 10px;
     background-color: blanchedalmond;
+    margin: 0 10px;
+}
+
+.personadue {
+    width: 18rem;
+    height: 17rem;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin: 0 10px;
+}
+
+.personatre {
+    width: 18rem;
+    height: 17rem;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin: 0 10px;
+}
+
+.personaquattro {
+    width: 18rem;
+    height: 17rem;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin: 0 10px;
+}
+
+.personacinque {
+    width: 18rem;
+    height: 17rem;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin: 0 10px;
+}
+
+.personasei {
+    width: 18rem;
+    height: 17rem;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    margin: 0 10px;
+}
+
+.img {
+    width: 13rem;
+    height: 13rem;
+    margin: 10px 0;
 }
