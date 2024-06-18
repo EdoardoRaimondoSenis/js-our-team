@@ -1,8 +1,5 @@
-const immagineuno = new Image();
-immagineuno.src = "img/wayne-barnett-founder-ceo.jpg";
-
 const personauno = {
-    "foto": immagineuno,
+    "foto": "img/wayne-barnett-founder-ceo.jpg",
     "nome": "Angela Carroll",
     "incarico": "Founder & CEO"
 };
